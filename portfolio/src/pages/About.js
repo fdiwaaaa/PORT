@@ -35,11 +35,7 @@ const About = () => (
         and user-friendly websites.
       </p>
       <button className="hire-me">
-        <a
-          href="https://drive.google.com/file/d/1RIQlxcFspH89xvugEeEyvgSG_ABMX3rI/view?usp=drive_link"
-          target="_blank"
-          rel="noreferrer"
-        >
+         <a href="https://drive.google.com/file/d/1-GBCApbR7lHUh5stEWgLgqbMDLCWr0n-/view?usp=drive_link" target="_blank" rel="noreferrer">
           GET MY CV
         </a>
       </button>
